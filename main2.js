@@ -38,61 +38,61 @@ const app = {
         {
             name: "Chúng ta Sau Này",
             singer: "T.R.I",
-            path: "/songs/song1.mp3",
+            path: "songs/song1.mp3",
             image: "/img/song1.jpg"
         },
         {
             name: "Tháng Mấy Em Nhớ Anh",
             singer: "Hà Anh Tuấn",
-            path: "/songs/song2.mp3",
+            path: "songs/song2.mp3",
             image: "/img/song2.jpg"
         },
         {
             name: "TÌnh Bạn Diệu Kỳ",
             singer: "Amme",
-            path: "/songs/song3.mp3",
+            path: "songs/song3.mp3",
             image: "/img/song3.jpg"
         },
         {
             name: "Trên Tình bạn Dưới Tình Yêu",
             singer: "MIN",
-            path: "/songs/song4.mp3",
+            path: "songs/song4.mp3",
             image: "/img/song4.jpg"
         },
         {
             name: "Yêu Thầm",
             singer: "Hoàng Yến",
-            path: "/songs/song5.mp3",
+            path: "songs/song5.mp3",
             image: "/img/song5.jpg"
         },
         {
             name: "Sài Gòn Đau Lòng Quá",
             singer: "Hứa Minh Tuyền",
-            path: "/songs/song6.mp3",
+            path: "songs/song6.mp3",
             image: "/img/song6.jpg"
         },
         {
             name: "Phải Chăng Em Đã Yêu",
             singer: "Juky San",
-            path: "/songs/song7.mp3",
+            path: "songs/song7.mp3",
             image: "/img/song7.jpg"
         },
         {
             name: "Hết Duyên Tình Tan",
             singer: "Châu Khải Phong",
-            path: "/songs/song8.mp3",
+            path: "songs/song8.mp3",
             image: "/img/song8.jpg"
         },
         {
             name: "Ép Duyên",
             singer: "T.R.I",
-            path: "/songs/song9.mp3",
+            path: "songs/song9.mp3",
             image: "/img/song9.jpg"
         },
         {
             name: "Đừng Hẹn Kiếp Sau",
             singer: "Đình Dũng",
-            path: "/songs/song10.mp3",
+            path: "songs/song10.mp3",
             image: "/img/song10.jpg"
         },
     ],
